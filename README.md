@@ -94,7 +94,7 @@ mostrarToast("Bienvenido al sistema","info");
 
 ## Varios Toast simultáneos
 
-![Captura 5](img/5.png)
+![Captura 5](img/6.png)
 
 ---
 
